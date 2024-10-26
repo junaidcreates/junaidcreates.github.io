@@ -21,7 +21,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: var(--color-normal-text);
-    background: url('/main/bgnew.png');
+    background: url('/main/assets/images/bgnew.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
